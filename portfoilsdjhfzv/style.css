@@ -1,0 +1,34 @@
+h1{
+    color:turquoise 
+}
+
+*{border: solid;}
+
+.head{
+    background-color: chartreuse;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.nt{
+background-color: rgb(162, 0, 255);
+display: flex;
+justify-content: space-between;
+
+/*  this is to comment */
+
+}
+.gg{
+background-color: rgb(195, 255, 29);
+
+}
+
+.ggwp{
+    background-color: red;
+    display: flex;
+justify-content: flex-end;
+}
+
+h3,p{
+    text-align: center;
+}
